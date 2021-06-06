@@ -1,0 +1,6 @@
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Αλευρά Γεωργία\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
